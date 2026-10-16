@@ -1,6 +1,6 @@
-# Gemmi Homepage
+# PicMini Homepage
 
-Static website for the Gemmi Android app.
+Static website for the PicMini Android app.
 
 ## Pages
 
